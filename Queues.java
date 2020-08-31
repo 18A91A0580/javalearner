@@ -1,6 +1,6 @@
 package queue;
 
-import java.util.LinkedList;
+import java.util.*;
 import java.util.Queue;
 public class Queues {
 
